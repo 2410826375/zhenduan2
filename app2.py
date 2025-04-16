@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image
-from zhengduan2 import AcousticDiagnoser, DIAG_CONFIG
+from zhenduanzip import AcousticDiagnoser, DIAG_CONFIG
 
 # 初始化诊断器
 diagnoser = AcousticDiagnoser(DIAG_CONFIG)
