@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit
+numpy
+pandas
+matplotlib
+Pillow
+openpyxl
+
+# Deep learning support (h5 model)
+tensorflow
+
+# Sound processing (if used inside diagnoser)
+scipy
+librosa
+
+# File/path utilities
+tqdm
